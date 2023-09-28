@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            border: 1px solid;
+        }   
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://www.google.com/logos/doodles/2023/googles-25th-birthday-6753651837110114-2xa.gif" alt="logo">
+        <nav>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+                <li><a href="#">Link 4</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section><img src=""/>
+            <figcaption>
+                <h2> SOME BODY ONCE TOLD ME </h2>
+                <p> that the world was gonna owe me</p>
+                <p> I ain't the sharpest tool in the shed</p>
+            </figcaption>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
