@@ -1,6 +1,10 @@
 /* * {
     border: 1px solid;
 }*/
+* {
+    box-sizing: border-box
+}
+
 li {
     background-color: red;
 }
@@ -12,8 +16,9 @@ li {
 
 nav a{
     text-align: center;
-    color: black
+    color: black;
     text-decoration: none;
+    padding: 35px;
 }
 
 #hero-msg h1, #hero-msg h4{
@@ -34,6 +39,10 @@ main section {
 
 body {
     background-color:papayawhip ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 
 header{
@@ -47,8 +56,11 @@ nav a:hover{
 
 .book, .join{
     background-color:papayawhip ;
-    color: black
+    color: black;
     text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 #background{
@@ -57,15 +69,19 @@ nav a:hover{
 
 .msg{
     background-color:papayawhip ;
+    line-height: 1.5em;
+    padding: 35px;
 }
 
 footer{
     background-color:papayawhip ;
-    color: black
+    color: black;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 footer a{
-    color: black
+    color: black;
     text-decoration: none;
 }
 
@@ -82,7 +98,10 @@ footer p a:hover {
 }   
 
 .home-title{
-    color: black
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
 
 h4{
@@ -98,7 +117,8 @@ h4{
 }
 
 .msg p{
-    color: black
+    color: black;
+    padding-bottom: 15px;
 }
 
 .logo{
@@ -106,5 +126,30 @@ h4{
 }
 
 .icon{
-    width: 100%
+    width: 100%;
+    padding-top: 10px;
+}
+
+h2{
+    margin: 0;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin:200px 0;
+}
+
+.card-img {
+    border: 10px solid black;
+}
+
+main section img{
+    box-sizing: border-box;
 }
