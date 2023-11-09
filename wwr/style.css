@@ -267,3 +267,8 @@ nav{
         margin-top: 25px;
     }
 }
+
+.locations_image {
+    max-width: 100px;
+    width: 50%
+}
