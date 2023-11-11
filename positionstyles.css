@@ -94,7 +94,7 @@
 .content4 {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 400px;
+  height: 100%;
 }
 .red4 {
   width: 50%; 
