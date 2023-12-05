@@ -341,3 +341,79 @@ body{
     font-size: 40px;
     font-weight: 200px;
   }
+
+  .bookings_pitch {
+    grid-row: 1;
+    grid-column: 1/3;
+    background-color: #2BD698;
+    font-family: Helvetica;
+    box-shadow: 10px 10px 10px black;
+  }
+
+  .bookings_pitch h3 {
+    margin: 50px;
+  }
+
+  .credit_card {
+    grid-column: 1;
+    grid-row: 2;
+    box-shadow: 10px 10px 10px black;
+    overflow: hidden;
+  }
+
+  .credit_text {
+    grid-column: 2;
+    grid-row: 2;
+    background-color:#d64a2b;
+    box-shadow: 10px 10px 10px black;
+  }
+
+  .credit_text p{
+    margin: 50px;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: 200px;
+  }
+
+  .credit_text h2{
+    margin: 50px;
+    font-family: Calibri;
+    font-size: 40px;
+    font-weight: 200px;
+  }
+
+  .grumpy_card {
+    grid-column: 2;
+    grid-row: 3;
+    box-shadow: 10px 10px 10px black;
+    overflow: hidden;
+  }
+  
+  .grumpy_text {
+    grid-column: 1;
+    grid-row: 3;
+    background-color: #d64a2b;
+    box-shadow: 10px 10px 10px black;
+  }
+
+  .grumpy_text p {
+    margin: 50px;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: 200px;
+  }
+
+  .grumpy_text h2{
+    margin: 50px;
+    font-family: Calibri;
+    font-size: 40px;
+    font-weight: 200px;
+  }
+
+  .refund_policy {
+    grid-column: 1/3;
+    background-color: #2BD698;
+    font-family: Helvetica;
+    box-shadow: 10px 10px 10px black;
+    text-align: center;
+  }
