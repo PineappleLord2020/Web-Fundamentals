@@ -91,7 +91,7 @@ body {
 
 #hero-msg h4{
   font-size: 30px;
-  font-weight: 50;
+  font-weight: light;
   margin: -40px;
   font-style: italic;
 }
@@ -210,7 +210,7 @@ body{
     margin: 50px;
     font-family: Calibri;
     font-size: 20px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .beach_card {
@@ -231,7 +231,7 @@ body{
     margin: 50px;
     font-family: Calibri;
     font-size: 20px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .social_icon {
@@ -304,14 +304,14 @@ body{
     margin: 50px;
     font-family: Calibri;
     font-size: 20px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .castle_text h2{
     margin: 50px;
     font-family: Calibri;
     font-size: 40px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .moon_card {
@@ -332,14 +332,14 @@ body{
     margin: 50px;
     font-family: Calibri;
     font-size: 20px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .moon_text h2{
     margin: 50px;
     font-family: Calibri;
     font-size: 40px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .bookings_pitch {
@@ -372,14 +372,14 @@ body{
     margin: 50px;
     font-family: Calibri;
     font-size: 20px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .credit_text h2{
     margin: 50px;
     font-family: Calibri;
     font-size: 40px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .grumpy_card {
@@ -400,14 +400,14 @@ body{
     margin: 50px;
     font-family: Calibri;
     font-size: 20px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .grumpy_text h2{
     margin: 50px;
     font-family: Calibri;
     font-size: 40px;
-    font-weight: 200px;
+    font-weight: bold;
   }
 
   .refund_policy {
